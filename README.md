@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a freelancer<br>I helped a few businesses
+
+I am a Software Development student at MBO-4 with a strong passion for designing & building web applications and learning how systems work under the hood.
+
+I enjoy working with JavaScript, React, Node.js, and modern web technologies, and I constantly build personal projects to improve my skills.
+
+Besides front end development, I like exploring backend systems, networking, and self-hosting technologies. I believe the best way to grow as a developer is by building real projects, breaking things, and figuring out how they work.
 
 
 ## 🌐 Socials:
