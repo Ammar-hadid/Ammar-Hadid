@@ -22,5 +22,3 @@ Besides front end development, I like exploring backend systems, networking, and
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ammar-hadid&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
